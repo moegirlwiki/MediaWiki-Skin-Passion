@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+#global-bar .container {
+	min-width: 600px;
+}
+
+.portal {
+	padding: 0 4px;
+}
+
+#p-search {
+	height: 20px;
+	padding: 8px 8px;
+}
+
+#p-search input[type='search'] {
+	width: 150px;
+}
